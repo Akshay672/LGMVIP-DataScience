@@ -8,6 +8,8 @@
 
 #### The Aim of our project is to build machine learning models to classify flower species into Setosa, Versicolour, and Virginica.
 
+![1](https://user-images.githubusercontent.com/85668824/126992223-a9fbbbf6-d1fe-40a6-a6e5-feec7b52fbcc.png)
+
 # Dataset Information
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.<br>
