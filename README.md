@@ -1,22 +1,22 @@
 # LGMVIP-DataScience
 
-## Task 1
+# Task 1
 
 <center><font size="5"><b>Iris Flowers Classification ML Project💫✨</b></font> </center>
 
-# Problem Statement
+## Problem Statement
 
 #### The Aim of our project is to build machine learning models to classify flower species into Setosa, Versicolour, and Virginica.
 
 ![1](https://user-images.githubusercontent.com/85668824/126992223-a9fbbbf6-d1fe-40a6-a6e5-feec7b52fbcc.png)
 
-# Dataset Information
+## Dataset Information
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.<br>
 
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.<br>
 
-# Attribute Information
+## Attribute Information
 
 ### The columns in this dataset are:<br>
 
@@ -27,11 +27,11 @@ It includes three iris species with 50 samples each as well as some properties a
 5. Petal Width Cm<br>
 6. Species<br>
 
-<H4>Target Variable</H4>
+### Target Variable
 
 The target variable is 'species' which has three species of iris flowers: <b>Setosa, Versicolour, and Virginica.</b>
 
-# Task Completed:
+## Task Completed:
 Import Libraries
 
 1.Data Preprocessing
